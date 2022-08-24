@@ -1,0 +1,5 @@
+<?php
+
+// $GLOBAL["panier"] = array();
+
+?>

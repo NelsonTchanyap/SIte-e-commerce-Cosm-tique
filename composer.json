@@ -1,0 +1,12 @@
+{
+    "name": "vendor/ecommerce",
+    "description": "Premier site eCommmerce avec  la prise en charge du paiement",
+    "require": {
+        "stripe/stripe-php": "^9.3"
+    },
+    "authors": [
+        {
+            "name": "Nelson"
+        }
+    ]
+}
